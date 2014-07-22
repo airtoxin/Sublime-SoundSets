@@ -1,1 +1,32 @@
-{}
+[
+    {
+        "name": "Default",
+        "url": "https://github.com/airtoxin/Sublime-SoundSets/blob/master/Default.tar.gz?raw=true",
+        "description": "Minecraft sfx of default sound sets of Sublime-Sound"
+    },
+    {
+        "name": "Gamelan",
+        "url": "https://github.com/airtoxin/Sublime-SoundSets/blob/master/Gamelan.tar.gz?raw=true",
+        "description": "Gamelan music set. Healing and Relaxation"
+    },
+    {
+        "name": "Click",
+        "url": "https://github.com/airtoxin/Sublime-SoundSets/blob/master/Click.tar.gz?raw=true",
+        "description": "Click Knock Tap..."
+    },
+    {
+        "name": "Blip",
+        "url": "https://github.com/airtoxin/Sublime-SoundSets/blob/master/Blip.tar.gz?raw=true",
+        "description": "Electronic short sound set"
+    },
+    {
+        "name": "Chip",
+        "url": "https://github.com/airtoxin/Sublime-SoundSets/blob/master/Chip.tar.gz?raw=true",
+        "description": "8bit Chip Sound"
+    },
+    {
+        "name": "Glitch",
+        "url": "https://github.com/airtoxin/Sublime-SoundSets/blob/master/Glitch.tar.gz?raw=true",
+        "description": "Short Noise"
+    }
+]

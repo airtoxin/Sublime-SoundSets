@@ -24,3 +24,6 @@ Electronic Short Sound
 
 ###[Glitch](https://github.com/airtoxin/Sublime-SoundSets/blob/master/Glitch.tar.gz?raw=true) (799KB)
 Short Noise
+
+###[Typewriter](https://github.com/airtoxin/Sublime-SoundSets/blob/master/Typewriter.tar.gz?raw=true) (4.5MB)
+Old Typewriter

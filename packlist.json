@@ -33,5 +33,10 @@
         "name": "Typewriter",
         "url": "https://github.com/airtoxin/Sublime-SoundSets/blob/master/Typewriter.tar.gz",
         "description": "Old Typewriter"
+    },
+    {
+        "name": "Breaks",
+        "url": "https://github.com/airtoxin/Sublime-SoundSets/blob/master/Breaks.tar.gz",
+        "description": "Spilit of Amen Break"
     }
 ]

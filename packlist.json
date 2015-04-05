@@ -28,5 +28,10 @@
         "name": "Glitch",
         "url": "https://github.com/airtoxin/Sublime-SoundSets/blob/master/Glitch.tar.gz?raw=true",
         "description": "Short Noise"
+    },
+    {
+        "name": "Typewriter",
+        "url": "https://github.com/airtoxin/Sublime-SoundSets/blob/master/Typewriter.tar.gz",
+        "description": "Old Typewriter"
     }
 ]

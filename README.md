@@ -30,3 +30,13 @@ Old Typewriter
 
 ###[Breaks](https://github.com/airtoxin/Sublime-SoundSets/blob/master/Breaks.tar.gz?raw=true) (2MB)
 Spilit of Amen Break
+
+
+## Contribute
+
+If you want to create `Hoge` soundset, then do following steps.
+
+0. Create soundset named directory `$ mkdir -p Hoge/on_{clone,close,load,modify,new,save}`.
+0. Put `.wav` sound file.
+0. `$ tar zcvf Hoge.tar.gz Hoge/`
+0. Commit it.
